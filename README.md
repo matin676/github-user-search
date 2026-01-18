@@ -1,7 +1,6 @@
 # 🔍 devfinder - Modern GitHub User Search
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Deploy to Pages](https://github.com/matin676/github-user-search/actions/workflows/deploy.yml/badge.svg)](https://github.com/matin676/github-user-search/actions/workflows/deploy.yml)
 
 A high-performance, premium GitHub user search application built with **React**, **Vite**, and **Framer Motion**. This project features a modern Glassmorphism UI, advanced data insights, and a modular architecture.
 
